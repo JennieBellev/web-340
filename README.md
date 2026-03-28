@@ -1,2 +1,6 @@
-# web-340
-node.js course
+# WEB 340 Node.js
+
+## Contributors
+
+- Richard Krasso
+- Jennifer Snyder
