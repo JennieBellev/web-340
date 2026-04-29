@@ -1,0 +1,12 @@
+{
+  "name": "fantasy-game-character-creation",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
